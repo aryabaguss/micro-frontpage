@@ -30,7 +30,7 @@ export default function Hero() {
             placeholder="Your email addres"
           />
           <button className="bg-orange-500 hover:bg-orange-400 transition-all duration-200 focus:outline-none shadow-inner text-white px-4 md:px-6 py-3 whitespace-no-wrap">
-            Daftar Now
+            Register Now
           </button>
         </form>
       </div>
