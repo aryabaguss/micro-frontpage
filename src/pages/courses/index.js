@@ -65,7 +65,7 @@ function Courses({ data }) {
   return (
     <>
       <Head>
-        <title>Micro | Courses</title>
+        <title>Microlearn | Courses</title>
       </Head>
 
       <section className="pt-10 z-30 relative" style={{ height: 360 }}>

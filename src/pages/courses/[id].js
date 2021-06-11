@@ -47,7 +47,7 @@ function DetailsCourse({ data }) {
   return (
     <>
       <Head>
-        <title>Micro</title>
+        <title>Microlearn</title>
       </Head>
       <section
         className="px-4 pt-10 relative overflow-hidden"
@@ -159,7 +159,7 @@ function DetailsCourse({ data }) {
           <div className="w-full md:w-3/4">
             <section>
               <h6 className="font-medium text-gray-900 text-2xl mb-4">
-                About <span className="text-teal-500">Coures</span>
+                About <span className="text-teal-500">Courses</span>
               </h6>
               <p className="text-gray-600 text-base md:text-lg leading-relaxed mb-3">
                 {data?.description ?? "No Description Found"}

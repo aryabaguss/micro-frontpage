@@ -77,7 +77,7 @@ export default function Footer() {
         <div className="w-full md:w-1/6 mb-8 md:mb-0">
           <h6 className="text-white">Touch Us</h6>
           <p className="mt-4 text-indigo-500 leading-loose">
-            Micro Centre <br />
+            Microlearn Centre <br />
             Alleysi Block X No. 12 <br />
             Jakarta Selatan, Indonesia <br />
             +21 2020 5555
@@ -102,7 +102,7 @@ export default function Footer() {
       </div>
       <div className="border-t pt-8 mt-8 border-gray-800 text-center">
         <p className="text-indigo-500">
-          2020 Copyright Micro by BuildWith Angga. All Rights Reserved
+          2021 Copyright Microlearn by arya. All Rights Reserved
         </p>
       </div>
     </footer>
